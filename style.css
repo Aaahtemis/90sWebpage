@@ -1,5 +1,29 @@
 
 
 .panel {
-    border: 3px solid #002;
+    border: 3px solid rgba(122, 109, 109, 0.226);
+    background: rgba(206, 31, 31, 0.575);
+    border-radius: 5%;
+
 }
+
+
+.planet-text {
+    font: 1.2rem "Arial Narrow", sans-serif;
+    color: antiquewhite;
+    text-align: center;
+}
+
+.planet-img {
+    margin: 20%;
+}
+
+
+
+#moon {
+    font-size: small;
+}
+
+
+
+
